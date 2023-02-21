@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368553098599",
+    "project_id": "hangman-app-fm",
+    "storage_bucket": "hangman-app-fm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368553098599:android:80eddc8bf21aa3fbd343c2",
+        "android_client_info": {
+          "package_name": "com.hangmanappfem.hangman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368553098599-5qv95dajnq2mdq635in2kkulvkbkv0pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiiruh65GT_gC8wnLmfsTcoEqewZfq3sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368553098599-5qv95dajnq2mdq635in2kkulvkbkv0pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
